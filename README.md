@@ -37,9 +37,3 @@ Tech Stack
 
   Java, Node.js, React, Redis, RabbitMQ, PostgreSQL, API Gateway, Google Load Balancer, Splunk, Dynatrace, Microservices, Cloud Architecture
 
-
-a diagram section for GitHub
-
-or convert this into a clean architectural diagram using Mermaid
-
-Just tell me what you need.
